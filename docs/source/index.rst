@@ -1,4 +1,4 @@
-Welcome to Lumache's documentation!
+Welcome to Stitch Documentation!
 ===================================
 
 **Stitch MES Move towards smart manufacturing through digitisation of production shopfloor operations with STITCH's manufacturing execution system.
